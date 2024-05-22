@@ -1,7 +1,6 @@
 # LSEC_segmentation
 
-This repository includes Jupyter Notebooks for Google Colab. 
-These notebooks are intended to automatically segment fenestrations in LSECs.
+This repository includes Jupyter Notebooks for the automatic segmentation of fenestrations in SEM images of LSECs.
 
 This repository includes a notebook for creating segmentation masks of fenestrations: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marketakvasova/LSEC_segmentation/blob/main/LSEC_fenestration_segmentation.ipynb).
 You can either run the script in Google Colab (this allows you to use Google's GPU, but you have to upload your data to Google Drive).
