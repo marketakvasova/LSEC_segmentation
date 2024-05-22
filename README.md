@@ -15,12 +15,13 @@ If you are running it on your PC, follow these steps:
      do this by downloading the file [install_libraries_win.bat](https://github.com/marketakvasova/LSEC_segmentation/blob/main/install_libraries_win.bat) and running it by double-clicking on it.<be>
      (Windows might give you some warnings when you try to run it, but you can check the file contents here on GitHub.)
    - other OS:
-     download install_libraries.sh<br>
+     download [install_libraries.bat](https://github.com/marketakvasova/LSEC_segmentation/blob/main/install_libraries.sh)install_libraries.sh<br>
      in terminal run:<br>
      chmod +x install_libraries.sh<br>
      ./intstall_libraries.sh
           
-4. Download some IDE, where you can run the script (e.g. https://code.visualstudio.com/).
+4. Download some IDE, where you can run the script (e.g., https://code.visualstudio.com/).
+5. Open and run the script [LSEC_fenestration_segmentation.ipynb](https://github.com/marketakvasova/LSEC_segmentation/blob/main/LSEC_fenestration_segmentation.ipynb)
 
 The individual cells are executed by clicking on the arrows on their left side (Execute cell).
 When you try to run it in VSCode for the first time, VSCode will suggest installing the necessary extensions for the script (Python+Jupyter).
