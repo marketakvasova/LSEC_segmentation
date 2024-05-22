@@ -4,6 +4,26 @@ This repository includes Jupyter Notebooks for Google Colab.
 These notebooks are intended to automatically segment fenestrations in LSECs.
 
 This repository includes a notebook for creating segmentation masks of fenestrations: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marketakvasova/LSEC_segmentation/blob/main/LSEC_fenestration_segmentation.ipynb).
+You can either run the script in Google Colab (this allows you to use Google's GPU, but you have to upload your data to Google Drive).
+Or you can download it and run it on your PC (for example in VS Code https://code.visualstudio.com/).
+
+If you are running it on your PC, follow these steps:
+
+1. Download Python https://www.python.org/downloads/. (When the first window appears during installation, check the "Add python.exe to PATH" box at the bottom!)
+2. Install necessary libraries
+   - On Windows:
+     do this by downloading the file install_libraries_win.bat
+   - other:
+     download install_libraries.sh
+     in terminal run:
+     chmod +x install_libraries.sh
+     ./intstall_libraries.sh
+          
+4. Download some IDE, where you can run the script (e.g. https://code.visualstudio.com/).
+
+The individual cells are executed by clickin on the arrows on their left side (Execute cell).
+When you try to run in it VS Code for the first time, VSCode will suggest installing necessary extensions for the script (Python+Jupyter).
+
 
 The model was trained using this script: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marketakvasova/LSEC_segmentation/blob/main/automatic_image_segmentation.ipynb).
 
