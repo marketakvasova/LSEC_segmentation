@@ -22,7 +22,7 @@ If you are running it on your PC, follow these steps:
 4. Download some IDE, where you can run the script (e.g., https://code.visualstudio.com/).
 5. Download and open the script [LSEC_fenestration_segmentation.ipynb](https://github.com/marketakvasova/LSEC_segmentation/blob/main/LSEC_fenestration_segmentation.ipynb).<br>
 The individual cells are executed by clicking on the arrows on their left side (Execute cell).
-When you try to run it in VSCode for the first time, VSCode will suggest installing the necessary extensions for the script (Python+Jupyter).
+When you try to run it in VSCode for the first time, VSCode should suggest installing the necessary extensions for the script (Python+Jupyter).
 <br>
 
 The model was trained using this script: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marketakvasova/LSEC_segmentation/blob/main/automatic_image_segmentation.ipynb).
