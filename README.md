@@ -27,6 +27,8 @@ When you try to run it in VSCode for the first time, VSCode should suggest insta
 
 The model was trained using this script: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marketakvasova/LSEC_segmentation/blob/main/automatic_image_segmentation.ipynb).
 
+Images, which were used for training and testing, and the model weights can be found here: [https://drive.google.com/drive/u/1/folders/18O8pFbqFLx34X1dliWbPf9EkqeFO0ASK](https://drive.google.com/drive/u/1/folders/18O8pFbqFLx34X1dliWbPf9EkqeFO0ASK)
+
 Some attempts were made to create segmentation masks of whole cells using the Segment Anything model.: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marketakvasova/LSEC_segmentation/blob/main/semiautomatic_cell_segmentation.ipynb).
 These attempts were not very successful, as the model works only sometimes(when there is a good contrast between the cell and the background).
 The Segment Anything Model downscales the image quite a lot because the SEM images are very large.
