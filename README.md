@@ -15,7 +15,7 @@ If you are running it on your PC, follow these steps:
      do this by downloading the file install_libraries_win.bat
    - other OS:
      download install_libraries.sh<br>
-     in terminal run:<br><br>
+     in terminal run:<br>
      chmod +x install_libraries.sh<br>
      ./intstall_libraries.sh
           
