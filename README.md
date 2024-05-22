@@ -13,7 +13,7 @@ If you are running it on your PC, follow these steps:
 2. Install necessary libraries
    - On Windows:
      do this by downloading the file install_libraries_win.bat
-   - other:
+   - other OS:
      download install_libraries.sh
      in terminal run:
      chmod +x install_libraries.sh
@@ -21,8 +21,8 @@ If you are running it on your PC, follow these steps:
           
 4. Download some IDE, where you can run the script (e.g. https://code.visualstudio.com/).
 
-The individual cells are executed by clickin on the arrows on their left side (Execute cell).
-When you try to run in it VS Code for the first time, VSCode will suggest installing necessary extensions for the script (Python+Jupyter).
+The individual cells are executed by clicking on the arrows on their left side (Execute cell).
+When you try to run it in VSCode for the first time, VSCode will suggest installing necessary extensions for the script (Python+Jupyter).
 
 
 The model was trained using this script: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marketakvasova/LSEC_segmentation/blob/main/automatic_image_segmentation.ipynb).
