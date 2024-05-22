@@ -10,7 +10,7 @@ Or you can download it and run it on your PC (for example in VS Code https://cod
 If you are running it on your PC, follow these steps:
 
 1. Download Python https://www.python.org/downloads/. (When the first window appears during installation, check the "Add python.exe to PATH" box at the bottom!)
-2. Install necessary libraries
+2. Install the necessary libraries
    - On Windows:<br>
      do this by downloading the file [install_libraries_win.bat](https://github.com/marketakvasova/LSEC_segmentation/blob/main/install_libraries_win.bat) and running it by double-clicking on it.<be>
      (Windows might give you some warnings when you try to run it, but you can check the file contents here on GitHub.)
