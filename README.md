@@ -15,9 +15,9 @@ If you are running it on your PC, follow these steps:
      do this by downloading the file install_libraries_win.bat
    - other OS:
      download install_libraries.sh
-     --in terminal run:
-     --chmod +x install_libraries.sh
-     --./intstall_libraries.sh
+     in terminal run:<br>
+     chmod +x install_libraries.sh<br>
+     ./intstall_libraries.sh
           
 4. Download some IDE, where you can run the script (e.g. https://code.visualstudio.com/).
 
