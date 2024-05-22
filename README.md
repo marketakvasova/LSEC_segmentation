@@ -11,11 +11,11 @@ If you are running it on your PC, follow these steps:
 
 1. Download Python https://www.python.org/downloads/. (When the first window appears during installation, check the "Add python.exe to PATH" box at the bottom!)
 2. Install necessary libraries
-   - On Windows:
+   - On Windows:<br>
      do this by downloading the file install_libraries_win.bat
    - other OS:
-     download install_libraries.sh
-     in terminal run:<br>
+     download install_libraries.sh<br>
+     in terminal run:<br><br>
      chmod +x install_libraries.sh<br>
      ./intstall_libraries.sh
           
